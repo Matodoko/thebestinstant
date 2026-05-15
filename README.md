@@ -1,5 +1,5 @@
 # thebestinstant
-as seen on matodoko instant and story\
+as seen on matodoko instant and story
 
 A passive agressive (ish?) image made to be posted on Instagram's new "Instants" feature.\
 It details the steps to hide the annoying button for it, which shows up in your messages.\
